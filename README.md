@@ -1,2 +1,2 @@
-# palindrome.js
-A function written in js for detect if word is a palindrom
+# maxWord.js
+A function written in js for count how much a letter appear in a word and return the letter who have the highter number
